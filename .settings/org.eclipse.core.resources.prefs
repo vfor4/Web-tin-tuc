@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/home/Footer.jsp=UTF-8
+encoding//src/blog/bean/Mailer.java=UTF-8
+encoding//src/blog/controller/AdminController.java=UTF-8
+encoding//src/blog/controller/CategoryController.java=UTF-8
+encoding//src/blog/controller/PostController.java=UTF-8
+encoding//src/blog/controller/TestController.java=UTF-8
